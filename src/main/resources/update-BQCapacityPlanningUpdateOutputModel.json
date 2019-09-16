@@ -1,0 +1,12 @@
+{
+  "capacityPlanningInstanceRecord" : {
+    "eBranchChannelLoadingProjections" : "eBranchChannelLoadingProjections",
+    "eBranchChannelPlatformUtilization" : "eBranchChannelPlatformUtilization"
+  },
+  "capacityPlanningUpdateActionTaskReference" : "CPUATR792394",
+  "eBranchChannelManagementPlanInstanceRecord" : {
+    "eBranchChannelServiceSchedule" : "eBranchChannelServiceSchedule"
+  },
+  "capacityPlanningUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {}
+}

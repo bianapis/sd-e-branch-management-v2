@@ -1,0 +1,17 @@
+{
+  "maintenanceAndUpgradeInstanceReport" : {
+    "maintenanceAndUpgradeInstanceReportType" : "maintenanceAndUpgradeInstanceReportType",
+    "maintenanceAndUpgradeInstanceReport" : {},
+    "maintenanceAndUpgradeInstanceReportRecord" : {},
+    "maintenanceAndUpgradeInstanceReportParameters" : "maintenanceAndUpgradeInstanceReportParameters"
+  },
+  "maintenanceAndUpgradeRetrieveActionTaskReference" : "MAURATR717437",
+  "maintenanceAndUpgradeRetrieveActionTaskRecord" : {},
+  "maintenanceAndUpgradeRetrieveActionResponse" : "maintenanceAndUpgradeRetrieveActionResponse",
+  "maintenanceAndUpgradeInstanceAnalysis" : {
+    "maintenanceAndUpgradeInstanceAnalysisReport" : {},
+    "maintenanceAndUpgradeInstanceAnalysisRecord" : {},
+    "maintenanceAndUpgradeInstanceAnalysisReportType" : "maintenanceAndUpgradeInstanceAnalysisReportType",
+    "maintenanceAndUpgradeInstanceAnalysisParameters" : "maintenanceAndUpgradeInstanceAnalysisParameters"
+  }
+}

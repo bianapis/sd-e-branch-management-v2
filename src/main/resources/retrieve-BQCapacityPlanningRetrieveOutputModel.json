@@ -1,0 +1,28 @@
+{
+  "capacityPlanningInstanceRecord" : {
+    "eBranchChannelLoadingProjections" : "eBranchChannelLoadingProjections",
+    "eBranchChannelPlatformUtilization" : "eBranchChannelPlatformUtilization"
+  },
+  "capacityPlanningInstanceReport" : {
+    "capacityPlanningInstanceReport" : {},
+    "capacityPlanningInstanceReportRecord" : {},
+    "capacityPlanningInstanceReportParameters" : "capacityPlanningInstanceReportParameters",
+    "capacityPlanningInstanceReportType" : "capacityPlanningInstanceReportType"
+  },
+  "capacityPlanningInstanceAnalysis" : {
+    "capacityPlanningInstanceAnalysisReportType" : "capacityPlanningInstanceAnalysisReportType",
+    "capacityPlanningInstanceAnalysisParameters" : "capacityPlanningInstanceAnalysisParameters",
+    "capacityPlanningInstanceAnalysisRecord" : {},
+    "capacityPlanningInstanceAnalysisReport" : {}
+  },
+  "eBranchChannelManagementPlanInstanceRecord" : {
+    "eBranchChannelUsagePoliciesAndGuidelines" : "eBranchChannelUsagePoliciesAndGuidelines",
+    "eBranchChannelServiceSchedule" : "eBranchChannelServiceSchedule",
+    "eBranchChannelServiceOperatingParameters" : "eBranchChannelServiceOperatingParameters",
+    "eBranchChannelServicePerformanceGoals" : "eBranchChannelServicePerformanceGoals",
+    "eBranchChannelManagementPlanPeriod" : "eBranchChannelManagementPlanPeriod"
+  },
+  "capacityPlanningRetrieveActionResponse" : "capacityPlanningRetrieveActionResponse",
+  "capacityPlanningRetrieveActionTaskReference" : "CPRATR738632",
+  "capacityPlanningRetrieveActionTaskRecord" : {}
+}

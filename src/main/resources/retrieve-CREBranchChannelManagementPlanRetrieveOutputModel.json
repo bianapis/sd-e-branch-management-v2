@@ -1,0 +1,22 @@
+{
+  "eBranchChannelManagementPlanInstanceRecord" : {
+    "eBranchChannelUsagePoliciesAndGuidelines" : "eBranchChannelUsagePoliciesAndGuidelines",
+    "eBranchChannelServiceSchedule" : "eBranchChannelServiceSchedule",
+    "eBranchChannelServiceOperatingParameters" : "eBranchChannelServiceOperatingParameters",
+    "eBranchChannelServicePerformanceGoals" : "eBranchChannelServicePerformanceGoals",
+    "eBranchChannelManagementPlanPeriod" : "eBranchChannelManagementPlanPeriod"
+  },
+  "eBranchChannelManagementPlanInstanceReportRecord" : {
+    "eBranchChannelManagementPlanInstanceReport" : {},
+    "eBranchChannelManagementPlanInstanceReportType" : "eBranchChannelManagementPlanInstanceReportType",
+    "eBranchChannelManagementPlanInstanceReportData" : "eBranchChannelManagementPlanInstanceReportData"
+  },
+  "eBranchChannelManagementPlanInstanceAnalysis" : {
+    "eBranchChannelManagementPlanInstanceAnalysisData" : "eBranchChannelManagementPlanInstanceAnalysisData",
+    "eBranchChannelManagementPlanInstanceAnalysisReportType" : "eBranchChannelManagementPlanInstanceAnalysisReportType",
+    "eBranchChannelManagementPlanInstanceAnalysisReport" : {}
+  },
+  "eBranchChannelManagementPlanRetrieveActionResponse" : "eBranchChannelManagementPlanRetrieveActionResponse",
+  "eBranchChannelManagementPlanRetrieveActionTaskReference" : "ECMPRATR781175",
+  "eBranchChannelManagementPlanRetrieveActionTaskRecord" : {}
+}

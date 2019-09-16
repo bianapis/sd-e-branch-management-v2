@@ -1,0 +1,21 @@
+{
+  "troubleshootingInstanceRecord" : {
+    "eBranchChannelProductionIssueRecord" : {},
+    "eBranchChannelIssueAnalysisAndRecommendedResponse" : "eBranchChannelIssueAnalysisAndRecommendedResponse"
+  },
+  "troubleshootingInstanceReport" : {
+    "troubleshootingInstanceReportParameters" : "troubleshootingInstanceReportParameters",
+    "troubleshootingInstanceReportType" : "troubleshootingInstanceReportType",
+    "troubleshootingInstanceReport" : {},
+    "troubleshootingInstanceReportRecord" : {}
+  },
+  "troubleshootingInstanceAnalysis" : {
+    "troubleshootingInstanceAnalysisParameters" : "troubleshootingInstanceAnalysisParameters",
+    "troubleshootingInstanceAnalysisReportType" : "troubleshootingInstanceAnalysisReportType",
+    "troubleshootingInstanceAnalysisReport" : {},
+    "troubleshootingInstanceAnalysisRecord" : {}
+  },
+  "troubleshootingRetrieveActionTaskReference" : "TRATR728627",
+  "troubleshootingRetrieveActionResponse" : "troubleshootingRetrieveActionResponse",
+  "troubleshootingRetrieveActionTaskRecord" : {}
+}

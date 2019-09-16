@@ -1,0 +1,10 @@
+{
+  "troubleshootingRequestRecordReference" : "TRRR748225",
+  "troubleshootingInstanceRecord" : {
+    "eBranchChannelProductionIssueRecord" : {},
+    "eBranchChannelIssueAnalysisAndRecommendedResponse" : "eBranchChannelIssueAnalysisAndRecommendedResponse"
+  },
+  "troubleshootingRequestActionTaskRecord" : {},
+  "troubleshootingRequestActionTaskReference" : "TRATR761870",
+  "requestResponseRecord" : {}
+}

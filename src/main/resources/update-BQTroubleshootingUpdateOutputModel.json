@@ -1,0 +1,9 @@
+{
+  "troubleshootingInstanceRecord" : {
+    "eBranchChannelProductionIssueRecord" : {},
+    "eBranchChannelIssueAnalysisAndRecommendedResponse" : "eBranchChannelIssueAnalysisAndRecommendedResponse"
+  },
+  "troubleshootingUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "troubleshootingUpdateActionTaskReference" : "TUATR700277"
+}

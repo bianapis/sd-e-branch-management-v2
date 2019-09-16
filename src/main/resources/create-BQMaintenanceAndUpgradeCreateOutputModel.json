@@ -1,0 +1,11 @@
+{
+  "eBranchChannelManagementPlanInstanceRecord" : {
+    "eBranchChannelServiceSchedule" : "eBranchChannelServiceSchedule",
+    "eBranchChannelServicePerformanceGoals" : "eBranchChannelServicePerformanceGoals",
+    "eBranchChannelManagementPlanPeriod" : "eBranchChannelManagementPlanPeriod"
+  },
+  "maintenanceAndUpgradeInstanceReference" : "MAUIR766511",
+  "maintenanceAndUpgradeInitiateActionRecord" : {},
+  "maintenanceAndUpgradeInitiateActionReference" : "MAUIAR705033",
+  "maintenanceAndUpgradeInstanceStatus" : "maintenanceAndUpgradeInstanceStatus"
+}

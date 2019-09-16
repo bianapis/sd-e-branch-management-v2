@@ -1,0 +1,13 @@
+{
+  "eBranchChannelManagementPlanInstanceRecord" : {
+    "eBranchChannelUsagePoliciesAndGuidelines" : "eBranchChannelUsagePoliciesAndGuidelines",
+    "eBranchChannelServiceSchedule" : "eBranchChannelServiceSchedule",
+    "eBranchChannelServiceOperatingParameters" : "eBranchChannelServiceOperatingParameters",
+    "eBranchChannelServicePerformanceGoals" : "eBranchChannelServicePerformanceGoals",
+    "eBranchChannelManagementPlanPeriod" : "eBranchChannelManagementPlanPeriod"
+  },
+  "eBranchChannelManagementPlanCreateActionReference" : "ECMPCAR703589",
+  "eBranchChannelManagementPlanInstanceReference" : "ECMPIR710319",
+  "eBranchChannelManagementPlanCreateActionRecord" : {},
+  "eBranchChannelManagementPlanInstanceStatus" : "eBranchChannelManagementPlanInstanceStatus"
+}

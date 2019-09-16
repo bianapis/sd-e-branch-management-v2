@@ -1,0 +1,10 @@
+{
+  "capacityPlanningRequestRecordReference" : "CPRRR756844",
+  "capacityPlanningInstanceRecord" : {
+    "eBranchChannelLoadingProjections" : "eBranchChannelLoadingProjections",
+    "eBranchChannelPlatformUtilization" : "eBranchChannelPlatformUtilization"
+  },
+  "capacityPlanningRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {},
+  "capacityPlanningRequestActionTaskReference" : "CPRATR720384"
+}
